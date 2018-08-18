@@ -1,1477 +1,1477 @@
 [
   {
-    "Product": "Aardappel",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Aardappel",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Aardappel, zoete",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Aardappel, zoete",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Alfalfa",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Alfalfa",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Andijvie, verse",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Andijvie, verse",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Artisjokken",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Artisjokken",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Aubergine",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Aubergine",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Bieslook",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Bieslook",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Bloemkool",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Bloemkool",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Boerenkool",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Boerenkool",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Broccoli",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Broccoli",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Courgette",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Courgette",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Franse snijbonen",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Franse snijbonen",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Gerstegras",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Gerstegras",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Groene kool",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Groene kool",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Heermoes",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Heermoes",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Hondgras",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Hondgras",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "IJsbergsla",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "IJsbergsla",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Kamutgras",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Kamutgras",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Kelp",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Kelp",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Kiemen",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Kiemen",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Kno%uFB02ook",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Kno%uFB02ook",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Koolraap",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Koolraap",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Koolrabi",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Koolrabi",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Komkommer",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Komkommer",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Kropsla",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Kropsla",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Mierikswortel",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Mierikswortel",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Paprika",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Paprika",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Pompoen",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Pompoen",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Prei",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Prei",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Rapen",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Rapen",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Radijs wit / zwart",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Radijs wit / zwart",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Rode biet",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Rode biet",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Rode kool",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Rode kool",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Rucola",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Rucola",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Savooiekool",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Savooiekool",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Selderij",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Selderij",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Sjalotten",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Sjalotten",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Sla",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Sla",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Sperziebonen",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Sperziebonen",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Spinazie",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Spinazie",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Spirulina",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Spirulina",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Spruiten",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Spruiten",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Tarwegras",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Tarwegras",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Taugé",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Taugé",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Ui",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Ui",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Veldsla",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Veldsla",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Venkel",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Venkel",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Waterkers",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Waterkers",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Witlof",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Witlof",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Witte kool",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Witte kool",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Wortelen",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Wortelen",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Zeewier",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Zeer basisch"
+    "product": "Zeewier",
+    "soort": "Groenten & Grassen",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Citroen",
-    "Soort": "Fruit",
-    "Ph": "Zeer basisch"
+    "product": "Citroen",
+    "soort": "Fruit",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Kers, zure",
-    "Soort": "Fruit",
-    "Ph": "Zeer basisch"
+    "product": "Kers, zure",
+    "soort": "Fruit",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Kokos, verse",
-    "Soort": "Fruit",
-    "Ph": "Zeer basisch"
+    "product": "Kokos, verse",
+    "soort": "Fruit",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Limoen",
-    "Soort": "Fruit",
-    "Ph": "Zeer basisch"
+    "product": "Limoen",
+    "soort": "Fruit",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Tomaat",
-    "Soort": "Fruit",
-    "Ph": "Zeer basisch"
+    "product": "Tomaat",
+    "soort": "Fruit",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Watermeloen",
-    "Soort": "Fruit",
-    "Ph": "Zeer basisch"
+    "product": "Watermeloen",
+    "soort": "Fruit",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Amandelen",
-    "Soort": "Noten & Zaden",
-    "Ph": "Zeer basisch"
+    "product": "Amandelen",
+    "soort": "Noten & Zaden",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Chiazaad",
-    "Soort": "Noten & Zaden",
-    "Ph": "Zeer basisch"
+    "product": "Chiazaad",
+    "soort": "Noten & Zaden",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Fenegriekzaad",
-    "Soort": "Noten & Zaden",
-    "Ph": "Zeer basisch"
+    "product": "Fenegriekzaad",
+    "soort": "Noten & Zaden",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Hazelnoot",
-    "Soort": "Noten & Zaden",
-    "Ph": "Zeer basisch"
+    "product": "Hazelnoot",
+    "soort": "Noten & Zaden",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Hennepzaad",
-    "Soort": "Noten & Zaden",
-    "Ph": "Zeer basisch"
+    "product": "Hennepzaad",
+    "soort": "Noten & Zaden",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Lijnzaad",
-    "Soort": "Noten & Zaden",
-    "Ph": "Zeer basisch"
+    "product": "Lijnzaad",
+    "soort": "Noten & Zaden",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Karwijzaad",
-    "Soort": "Noten & Zaden",
-    "Ph": "Zeer basisch"
+    "product": "Karwijzaad",
+    "soort": "Noten & Zaden",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Komijnzaad",
-    "Soort": "Noten & Zaden",
-    "Ph": "Zeer basisch"
+    "product": "Komijnzaad",
+    "soort": "Noten & Zaden",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Quinoazaad",
-    "Soort": "Noten & Zaden",
-    "Ph": "Zeer basisch"
+    "product": "Quinoazaad",
+    "soort": "Noten & Zaden",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Sesamzaad",
-    "Soort": "Noten & Zaden",
-    "Ph": "Zeer basisch"
+    "product": "Sesamzaad",
+    "soort": "Noten & Zaden",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Speltzaad",
-    "Soort": "Noten & Zaden",
-    "Ph": "Zeer basisch"
+    "product": "Speltzaad",
+    "soort": "Noten & Zaden",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Venkelzaad",
-    "Soort": "Noten & Zaden",
-    "Ph": "Zeer basisch"
+    "product": "Venkelzaad",
+    "soort": "Noten & Zaden",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Boekweit",
-    "Soort": "Granen & Peulvruchten",
-    "Ph": "Zeer basisch"
+    "product": "Boekweit",
+    "soort": "Granen & Peulvruchten",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Sojabonen, verse",
-    "Soort": "Granen & Peulvruchten",
-    "Ph": "Zeer basisch"
+    "product": "Sojabonen, verse",
+    "soort": "Granen & Peulvruchten",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Sojalecithine, pure",
-    "Soort": "Granen & Peulvruchten",
-    "Ph": "Zeer basisch"
+    "product": "Sojalecithine, pure",
+    "soort": "Granen & Peulvruchten",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Sojameel",
-    "Soort": "Granen & Peulvruchten",
-    "Ph": "Zeer basisch"
+    "product": "Sojameel",
+    "soort": "Granen & Peulvruchten",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Sojascheuten",
-    "Soort": "Granen & Peulvruchten",
-    "Ph": "Zeer basisch"
+    "product": "Sojascheuten",
+    "soort": "Granen & Peulvruchten",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Tofu",
-    "Soort": "Granen & Peulvruchten",
-    "Ph": "Zeer basisch"
+    "product": "Tofu",
+    "soort": "Granen & Peulvruchten",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Avocado-olie",
-    "Soort": "Olieën & Vetten",
-    "Ph": "Zeer basisch"
+    "product": "Avocado-olie",
+    "soort": "Olieën & Vetten",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Kokosolie",
-    "Soort": "Olieën & Vetten",
-    "Ph": "Zeer basisch"
+    "product": "Kokosolie",
+    "soort": "Olieën & Vetten",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Lijnzaadolie",
-    "Soort": "Olieën & Vetten",
-    "Ph": "Zeer basisch"
+    "product": "Lijnzaadolie",
+    "soort": "Olieën & Vetten",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Olijfolie, extravierge",
-    "Soort": "Olieën & Vetten",
-    "Ph": "Zeer basisch"
+    "product": "Olijfolie, extravierge",
+    "soort": "Olieën & Vetten",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Udo%u2019s olie",
-    "Soort": "Olieën & Vetten",
-    "Ph": "Zeer basisch"
+    "product": "Udo%u2019s olie",
+    "soort": "Olieën & Vetten",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Kraanwater",
-    "Soort": "Dranken",
-    "Ph": "Zeer basisch"
+    "product": "Kraanwater",
+    "soort": "Dranken",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Kruidenthee",
-    "Soort": "Dranken",
-    "Ph": "Zeer basisch"
+    "product": "Kruidenthee",
+    "soort": "Dranken",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Water met Alka® Druppels",
-    "Soort": "Dranken",
-    "Ph": "Zeer basisch"
+    "product": "Water met Alka® Druppels",
+    "soort": "Dranken",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Boter, ongepasteuriseerd",
-    "Soort": "Zuivel, Vetten & eieren",
-    "Ph": "Zeer basisch"
+    "product": "Boter, ongepasteuriseerd",
+    "soort": "Zuivel, Vetten & eieren",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Volle melk, ongepasteuriseerd",
-    "Soort": "Zuivel, Vetten & eieren",
-    "Ph": "Zeer basisch"
+    "product": "Volle melk, ongepasteuriseerd",
+    "soort": "Zuivel, Vetten & eieren",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Verse wei",
-    "Soort": "Zuivel, Vetten & eieren",
-    "Ph": "Zeer basisch"
+    "product": "Verse wei",
+    "soort": "Zuivel, Vetten & eieren",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Appelazijn",
-    "Soort": "Sauzen & Kruiden",
-    "Ph": "Zeer basisch"
+    "product": "Appelazijn",
+    "soort": "Sauzen & Kruiden",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Basillicum",
-    "Soort": "Sauzen & Kruiden",
-    "Ph": "Zeer basisch"
+    "product": "Basillicum",
+    "soort": "Sauzen & Kruiden",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Cayennepeper",
-    "Soort": "Sauzen & Kruiden",
-    "Ph": "Zeer basisch"
+    "product": "Cayennepeper",
+    "soort": "Sauzen & Kruiden",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Citroenmelisse",
-    "Soort": "Sauzen & Kruiden",
-    "Ph": "Zeer basisch"
+    "product": "Citroenmelisse",
+    "soort": "Sauzen & Kruiden",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Citroengras",
-    "Soort": "Sauzen & Kruiden",
-    "Ph": "Zeer basisch"
+    "product": "Citroengras",
+    "soort": "Sauzen & Kruiden",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Curcuma",
-    "Soort": "Sauzen & Kruiden",
-    "Ph": "Zeer basisch"
+    "product": "Curcuma",
+    "soort": "Sauzen & Kruiden",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Gember, vers",
-    "Soort": "Sauzen & Kruiden",
-    "Ph": "Zeer basisch"
+    "product": "Gember, vers",
+    "soort": "Sauzen & Kruiden",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Munt",
-    "Soort": "Sauzen & Kruiden",
-    "Ph": "Zeer basisch"
+    "product": "Munt",
+    "soort": "Sauzen & Kruiden",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Oregano",
-    "Soort": "Sauzen & Kruiden",
-    "Ph": "Zeer basisch"
+    "product": "Oregano",
+    "soort": "Sauzen & Kruiden",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Tijm",
-    "Soort": "Sauzen & Kruiden",
-    "Ph": "Zeer basisch"
+    "product": "Tijm",
+    "soort": "Sauzen & Kruiden",
+    "ph": "Zeer basisch"
   },
   {
-    "Product": "Agar agar",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Licht basisch"
+    "product": "Agar agar",
+    "soort": "Groenten & Grassen",
+    "ph": "Licht basisch"
   },
   {
-    "Product": "Asperge",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Licht basisch"
+    "product": "Asperge",
+    "soort": "Groenten & Grassen",
+    "ph": "Licht basisch"
   },
   {
-    "Product": "Champignons",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Licht basisch"
+    "product": "Champignons",
+    "soort": "Groenten & Grassen",
+    "ph": "Licht basisch"
   },
   {
-    "Product": "Fruit",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Licht basisch"
+    "product": "Fruit",
+    "soort": "Groenten & Grassen",
+    "ph": "Licht basisch"
   },
   {
-    "Product": "Aalbessen",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Licht basisch"
+    "product": "Aalbessen",
+    "soort": "Groenten & Grassen",
+    "ph": "Licht basisch"
   },
   {
-    "Product": "Avocado",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Licht basisch"
+    "product": "Avocado",
+    "soort": "Groenten & Grassen",
+    "ph": "Licht basisch"
   },
   {
-    "Product": "Banaan, onrijp",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Licht basisch"
+    "product": "Banaan, onrijp",
+    "soort": "Groenten & Grassen",
+    "ph": "Licht basisch"
   },
   {
-    "Product": "Cantaloupe",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Licht basisch"
+    "product": "Cantaloupe",
+    "soort": "Groenten & Grassen",
+    "ph": "Licht basisch"
   },
   {
-    "Product": "Grapefruit",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Licht basisch"
+    "product": "Grapefruit",
+    "soort": "Groenten & Grassen",
+    "ph": "Licht basisch"
   },
   {
-    "Product": "Guave",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Licht basisch"
+    "product": "Guave",
+    "soort": "Groenten & Grassen",
+    "ph": "Licht basisch"
   },
   {
-    "Product": "Papaya",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Licht basisch"
+    "product": "Papaya",
+    "soort": "Groenten & Grassen",
+    "ph": "Licht basisch"
   },
   {
-    "Product": "Paranoten",
-    "Soort": "Noten & Zaden",
-    "Ph": "Licht basisch"
+    "product": "Paranoten",
+    "soort": "Noten & Zaden",
+    "ph": "Licht basisch"
   },
   {
-    "Product": "Kastanjes",
-    "Soort": "Noten & Zaden",
-    "Ph": "Licht basisch"
+    "product": "Kastanjes",
+    "soort": "Noten & Zaden",
+    "ph": "Licht basisch"
   },
   {
-    "Product": "Abrikozen",
-    "Soort": "Noten & Zaden",
-    "Ph": "Licht basisch"
+    "product": "Abrikozen",
+    "soort": "Noten & Zaden",
+    "ph": "Licht basisch"
   },
   {
-    "Product": "Dadels",
-    "Soort": "Noten & Zaden",
-    "Ph": "Licht basisch"
+    "product": "Dadels",
+    "soort": "Noten & Zaden",
+    "ph": "Licht basisch"
   },
   {
-    "Product": "Rozijnen",
-    "Soort": "Noten & Zaden",
-    "Ph": "Licht basisch"
+    "product": "Rozijnen",
+    "soort": "Noten & Zaden",
+    "ph": "Licht basisch"
   },
   {
-    "Product": "Linzen",
-    "Soort": "Granen & Peulvruchten",
-    "Ph": "Licht basisch"
+    "product": "Linzen",
+    "soort": "Granen & Peulvruchten",
+    "ph": "Licht basisch"
   },
   {
-    "Product": "Quinoa",
-    "Soort": "Granen & Peulvruchten",
-    "Ph": "Licht basisch"
+    "product": "Quinoa",
+    "soort": "Granen & Peulvruchten",
+    "ph": "Licht basisch"
   },
   {
-    "Product": "Roomboter",
-    "Soort": "Olieën & Vetten",
-    "Ph": "Licht basisch"
+    "product": "Roomboter",
+    "soort": "Olieën & Vetten",
+    "ph": "Licht basisch"
   },
   {
-    "Product": "Sesamolie",
-    "Soort": "Olieën & Vetten",
-    "Ph": "Licht basisch"
+    "product": "Sesamolie",
+    "soort": "Olieën & Vetten",
+    "ph": "Licht basisch"
   },
   {
-    "Product": "Visolie",
-    "Soort": "Olieën & Vetten",
-    "Ph": "Licht basisch"
+    "product": "Visolie",
+    "soort": "Olieën & Vetten",
+    "ph": "Licht basisch"
   },
   {
-    "Product": "Vlaszaadolie",
-    "Soort": "Olieën & Vetten",
-    "Ph": "Licht basisch"
+    "product": "Vlaszaadolie",
+    "soort": "Olieën & Vetten",
+    "ph": "Licht basisch"
   },
   {
-    "Product": "Amandelmelk",
-    "Soort": "Dranken",
-    "Ph": "Licht basisch"
+    "product": "Amandelmelk",
+    "soort": "Dranken",
+    "ph": "Licht basisch"
   },
   {
-    "Product": "Rooibosthee",
-    "Soort": "Dranken",
-    "Ph": "Licht basisch"
+    "product": "Rooibosthee",
+    "soort": "Dranken",
+    "ph": "Licht basisch"
   },
   {
-    "Product": "Rijstmelk",
-    "Soort": "Dranken",
-    "Ph": "Licht basisch"
+    "product": "Rijstmelk",
+    "soort": "Dranken",
+    "ph": "Licht basisch"
   },
   {
-    "Product": "Thee, wit en groen",
-    "Soort": "Dranken",
-    "Ph": "Licht basisch"
+    "product": "Thee, wit en groen",
+    "soort": "Dranken",
+    "ph": "Licht basisch"
   },
   {
-    "Product": "Eigeel",
-    "Soort": "Zuivel, Vetten & eieren",
-    "Ph": "Licht basisch"
+    "product": "Eigeel",
+    "soort": "Zuivel, Vetten & eieren",
+    "ph": "Licht basisch"
   },
   {
-    "Product": "Moedermelk",
-    "Soort": "Zuivel, Vetten & eieren",
-    "Ph": "Licht basisch"
+    "product": "Moedermelk",
+    "soort": "Zuivel, Vetten & eieren",
+    "ph": "Licht basisch"
   },
   {
-    "Product": "Himalayazout",
-    "Soort": "Sauzen & Kruiden",
-    "Ph": "Licht basisch"
+    "product": "Himalayazout",
+    "soort": "Sauzen & Kruiden",
+    "ph": "Licht basisch"
   },
   {
-    "Product": "Peper",
-    "Soort": "Sauzen & Kruiden",
-    "Ph": "Licht basisch"
+    "product": "Peper",
+    "soort": "Sauzen & Kruiden",
+    "ph": "Licht basisch"
   },
   {
-    "Product": "Zeezout",
-    "Soort": "Sauzen & Kruiden",
-    "Ph": "Licht basisch"
+    "product": "Zeezout",
+    "soort": "Sauzen & Kruiden",
+    "ph": "Licht basisch"
   },
   {
-    "Product": "Groene stevia",
-    "Soort": "Zoetstoffen",
-    "Ph": "Licht basisch"
+    "product": "Groene stevia",
+    "soort": "Zoetstoffen",
+    "ph": "Licht basisch"
   },
   {
-    "Product": "Kokosbloesemsuiker",
-    "Soort": "Zoetstoffen",
-    "Ph": "Licht basisch"
+    "product": "Kokosbloesemsuiker",
+    "soort": "Zoetstoffen",
+    "ph": "Licht basisch"
   },
   {
-    "Product": "Koudgeslingerde honing",
-    "Soort": "Zoetstoffen",
-    "Ph": "Licht basisch"
+    "product": "Koudgeslingerde honing",
+    "soort": "Zoetstoffen",
+    "ph": "Licht basisch"
   },
   {
-    "Product": "Wilde stevia",
-    "Soort": "Zoetstoffen",
-    "Ph": "Licht basisch"
+    "product": "Wilde stevia",
+    "soort": "Zoetstoffen",
+    "ph": "Licht basisch"
   },
   {
-    "Product": "Rabarber",
-    "Soort": "Groenten & Grassen",
-    "Ph": "Licht verzurend"
+    "product": "Rabarber",
+    "soort": "Groenten & Grassen",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Aardbei",
-    "Soort": "Fruit",
-    "Ph": "Licht verzurend"
+    "product": "Aardbei",
+    "soort": "Fruit",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Abrikoos",
-    "Soort": "Fruit",
-    "Ph": "Licht verzurend"
+    "product": "Abrikoos",
+    "soort": "Fruit",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Ananas",
-    "Soort": "Fruit",
-    "Ph": "Licht verzurend"
+    "product": "Ananas",
+    "soort": "Fruit",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Appel",
-    "Soort": "Fruit",
-    "Ph": "Licht verzurend"
+    "product": "Appel",
+    "soort": "Fruit",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Banaan, rijpe",
-    "Soort": "Fruit",
-    "Ph": "Licht verzurend"
+    "product": "Banaan, rijpe",
+    "soort": "Fruit",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Bes, blauwe",
-    "Soort": "Fruit",
-    "Ph": "Licht verzurend"
+    "product": "Bes, blauwe",
+    "soort": "Fruit",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Bes, rood / zwart",
-    "Soort": "Fruit",
-    "Ph": "Licht verzurend"
+    "product": "Bes, rood / zwart",
+    "soort": "Fruit",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Bosbes",
-    "Soort": "Fruit",
-    "Ph": "Licht verzurend"
+    "product": "Bosbes",
+    "soort": "Fruit",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Meloen",
-    "Soort": "Fruit",
-    "Ph": "Licht verzurend"
+    "product": "Meloen",
+    "soort": "Fruit",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Cranberry",
-    "Soort": "Fruit",
-    "Ph": "Licht verzurend"
+    "product": "Cranberry",
+    "soort": "Fruit",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Dadel",
-    "Soort": "Fruit",
-    "Ph": "Licht verzurend"
+    "product": "Dadel",
+    "soort": "Fruit",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Druif, rijpe",
-    "Soort": "Fruit",
-    "Ph": "Licht verzurend"
+    "product": "Druif, rijpe",
+    "soort": "Fruit",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Framboos",
-    "Soort": "Fruit",
-    "Ph": "Licht verzurend"
+    "product": "Framboos",
+    "soort": "Fruit",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Granaatappels",
-    "Soort": "Fruit",
-    "Ph": "Licht verzurend"
+    "product": "Granaatappels",
+    "soort": "Fruit",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Honingmeloen",
-    "Soort": "Fruit",
-    "Ph": "Licht verzurend"
+    "product": "Honingmeloen",
+    "soort": "Fruit",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Kaki",
-    "Soort": "Fruit",
-    "Ph": "Licht verzurend"
+    "product": "Kaki",
+    "soort": "Fruit",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Kers, zoete",
-    "Soort": "Fruit",
-    "Ph": "Licht verzurend"
+    "product": "Kers, zoete",
+    "soort": "Fruit",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Kiwi",
-    "Soort": "Fruit",
-    "Ph": "Licht verzurend"
+    "product": "Kiwi",
+    "soort": "Fruit",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Kruisbes, rijpe",
-    "Soort": "Fruit",
-    "Ph": "Licht verzurend"
+    "product": "Kruisbes, rijpe",
+    "soort": "Fruit",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Mandarijn",
-    "Soort": "Fruit",
-    "Ph": "Licht verzurend"
+    "product": "Mandarijn",
+    "soort": "Fruit",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Mango",
-    "Soort": "Fruit",
-    "Ph": "Licht verzurend"
+    "product": "Mango",
+    "soort": "Fruit",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Ananas, gedroogd",
-    "Soort": "Gedroogd Fruit",
-    "Ph": "Licht verzurend"
+    "product": "Ananas, gedroogd",
+    "soort": "Gedroogd Fruit",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Appel, gedroogd",
-    "Soort": "Gedroogd Fruit",
-    "Ph": "Licht verzurend"
+    "product": "Appel, gedroogd",
+    "soort": "Gedroogd Fruit",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Banaan, gedroogd",
-    "Soort": "Gedroogd Fruit",
-    "Ph": "Licht verzurend"
+    "product": "Banaan, gedroogd",
+    "soort": "Gedroogd Fruit",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Cranberry, gedroogd",
-    "Soort": "Gedroogd Fruit",
-    "Ph": "Licht verzurend"
+    "product": "Cranberry, gedroogd",
+    "soort": "Gedroogd Fruit",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Mango, gedroogd",
-    "Soort": "Gedroogd Fruit",
-    "Ph": "Licht verzurend"
+    "product": "Mango, gedroogd",
+    "soort": "Gedroogd Fruit",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Peren, gedroogd",
-    "Soort": "Gedroogd Fruit",
-    "Ph": "Licht verzurend"
+    "product": "Peren, gedroogd",
+    "soort": "Gedroogd Fruit",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Pruimen, gedroogd",
-    "Soort": "Gedroogd Fruit",
-    "Ph": "Licht verzurend"
+    "product": "Pruimen, gedroogd",
+    "soort": "Gedroogd Fruit",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Vijgen, gedroogd",
-    "Soort": "Gedroogd Fruit",
-    "Ph": "Licht verzurend"
+    "product": "Vijgen, gedroogd",
+    "soort": "Gedroogd Fruit",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Pijnboompitten",
-    "Soort": "Noten & Zaden",
-    "Ph": "Licht verzurend"
+    "product": "Pijnboompitten",
+    "soort": "Noten & Zaden",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Bruine bonen",
-    "Soort": "Granen & Peulvruchten",
-    "Ph": "Licht verzurend"
+    "product": "Bruine bonen",
+    "soort": "Granen & Peulvruchten",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Erwten",
-    "Soort": "Granen & Peulvruchten",
-    "Ph": "Licht verzurend"
+    "product": "Erwten",
+    "soort": "Granen & Peulvruchten",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Hummus",
-    "Soort": "Granen & Peulvruchten",
-    "Ph": "Licht verzurend"
+    "product": "Hummus",
+    "soort": "Granen & Peulvruchten",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Kidneybonen",
-    "Soort": "Granen & Peulvruchten",
-    "Ph": "Licht verzurend"
+    "product": "Kidneybonen",
+    "soort": "Granen & Peulvruchten",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Kikkerwten",
-    "Soort": "Granen & Peulvruchten",
-    "Ph": "Licht verzurend"
+    "product": "Kikkerwten",
+    "soort": "Granen & Peulvruchten",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Limabonen",
-    "Soort": "Granen & Peulvruchten",
-    "Ph": "Licht verzurend"
+    "product": "Limabonen",
+    "soort": "Granen & Peulvruchten",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Witte bonen",
-    "Soort": "Granen & Peulvruchten",
-    "Ph": "Licht verzurend"
+    "product": "Witte bonen",
+    "soort": "Granen & Peulvruchten",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Walnootolie",
-    "Soort": "Olieën & Vetten",
-    "Ph": "Licht verzurend"
+    "product": "Walnootolie",
+    "soort": "Olieën & Vetten",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Mineraalwater uit %uFB02es",
-    "Soort": "Dranken",
-    "Ph": "Licht verzurend"
+    "product": "Mineraalwater uit %uFB02es",
+    "soort": "Dranken",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Sojamelk",
-    "Soort": "Dranken",
-    "Ph": "Licht verzurend"
+    "product": "Sojamelk",
+    "soort": "Dranken",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Wijn, rood",
-    "Soort": "Dranken",
-    "Ph": "Licht verzurend"
+    "product": "Wijn, rood",
+    "soort": "Dranken",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Eieren",
-    "Soort": "Zuivel, Vetten & eieren",
-    "Ph": "Licht verzurend"
+    "product": "Eieren",
+    "soort": "Zuivel, Vetten & eieren",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Melk",
-    "Soort": "Zuivel, Vetten & eieren",
-    "Ph": "Licht verzurend"
+    "product": "Melk",
+    "soort": "Zuivel, Vetten & eieren",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Cottage cheese",
-    "Soort": "Zuivel, Vetten & eieren",
-    "Ph": "Licht verzurend"
+    "product": "Cottage cheese",
+    "soort": "Zuivel, Vetten & eieren",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Ghee boter",
-    "Soort": "Zuivel, Vetten & eieren",
-    "Ph": "Licht verzurend"
+    "product": "Ghee boter",
+    "soort": "Zuivel, Vetten & eieren",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Karnemelk",
-    "Soort": "Zuivel, Vetten & eieren",
-    "Ph": "Licht verzurend"
+    "product": "Karnemelk",
+    "soort": "Zuivel, Vetten & eieren",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Kwark",
-    "Soort": "Zuivel, Vetten & eieren",
-    "Ph": "Licht verzurend"
+    "product": "Kwark",
+    "soort": "Zuivel, Vetten & eieren",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Room / crème",
-    "Soort": "Zuivel, Vetten & eieren",
-    "Ph": "Licht verzurend"
+    "product": "Room / crème",
+    "soort": "Zuivel, Vetten & eieren",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Yoghurt",
-    "Soort": "Zuivel, Vetten & eieren",
-    "Ph": "Licht verzurend"
+    "product": "Yoghurt",
+    "soort": "Zuivel, Vetten & eieren",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Baars",
-    "Soort": "Vlees, gevogelte & vis",
-    "Ph": "Licht verzurend"
+    "product": "Baars",
+    "soort": "Vlees, gevogelte & vis",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Bot",
-    "Soort": "Vlees, gevogelte & vis",
-    "Ph": "Licht verzurend"
+    "product": "Bot",
+    "soort": "Vlees, gevogelte & vis",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Dorade",
-    "Soort": "Vlees, gevogelte & vis",
-    "Ph": "Licht verzurend"
+    "product": "Dorade",
+    "soort": "Vlees, gevogelte & vis",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Forel",
-    "Soort": "Vlees, gevogelte & vis",
-    "Ph": "Licht verzurend"
+    "product": "Forel",
+    "soort": "Vlees, gevogelte & vis",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Kabeljauw",
-    "Soort": "Vlees, gevogelte & vis",
-    "Ph": "Licht verzurend"
+    "product": "Kabeljauw",
+    "soort": "Vlees, gevogelte & vis",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Kip",
-    "Soort": "Vlees, gevogelte & vis",
-    "Ph": "Licht verzurend"
+    "product": "Kip",
+    "soort": "Vlees, gevogelte & vis",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Koolvis",
-    "Soort": "Vlees, gevogelte & vis",
-    "Ph": "Licht verzurend"
+    "product": "Koolvis",
+    "soort": "Vlees, gevogelte & vis",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Lamsvlees",
-    "Soort": "Vlees, gevogelte & vis",
-    "Ph": "Licht verzurend"
+    "product": "Lamsvlees",
+    "soort": "Vlees, gevogelte & vis",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Oesters",
-    "Soort": "Vlees, gevogelte & vis",
-    "Ph": "Licht verzurend"
+    "product": "Oesters",
+    "soort": "Vlees, gevogelte & vis",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Poon",
-    "Soort": "Vlees, gevogelte & vis",
-    "Ph": "Licht verzurend"
+    "product": "Poon",
+    "soort": "Vlees, gevogelte & vis",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Sliptong",
-    "Soort": "Vlees, gevogelte & vis",
-    "Ph": "Licht verzurend"
+    "product": "Sliptong",
+    "soort": "Vlees, gevogelte & vis",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Donker bruinzonder gist",
-    "Soort": "Brood",
-    "Ph": "Licht verzurend"
+    "product": "Donker bruinzonder gist",
+    "soort": "Brood",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Volkorenbroodzonder gist",
-    "Soort": "Brood",
-    "Ph": "Licht verzurend"
+    "product": "Volkorenbroodzonder gist",
+    "soort": "Brood",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Speltbrood",
-    "Soort": "Brood",
-    "Ph": "Licht verzurend"
+    "product": "Speltbrood",
+    "soort": "Brood",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Zuurdesembrood",
-    "Soort": "Brood",
-    "Ph": "Licht verzurend"
+    "product": "Zuurdesembrood",
+    "soort": "Brood",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Amarant",
-    "Soort": "Granen & Peulvruchten",
-    "Ph": "Licht verzurend"
+    "product": "Amarant",
+    "soort": "Granen & Peulvruchten",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Bulgur",
-    "Soort": "Granen & Peulvruchten",
-    "Ph": "Licht verzurend"
+    "product": "Bulgur",
+    "soort": "Granen & Peulvruchten",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Gerst",
-    "Soort": "Granen & Peulvruchten",
-    "Ph": "Licht verzurend"
+    "product": "Gerst",
+    "soort": "Granen & Peulvruchten",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Haver",
-    "Soort": "Granen & Peulvruchten",
-    "Ph": "Licht verzurend"
+    "product": "Haver",
+    "soort": "Granen & Peulvruchten",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Rijst, bruin",
-    "Soort": "Granen & Peulvruchten",
-    "Ph": "Licht verzurend"
+    "product": "Rijst, bruin",
+    "soort": "Granen & Peulvruchten",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Zilvervliesrijst",
-    "Soort": "Granen & Peulvruchten",
-    "Ph": "Licht verzurend"
+    "product": "Zilvervliesrijst",
+    "soort": "Granen & Peulvruchten",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Rogge",
-    "Soort": "Granen & Peulvruchten",
-    "Ph": "Licht verzurend"
+    "product": "Rogge",
+    "soort": "Granen & Peulvruchten",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Spelt",
-    "Soort": "Granen & Peulvruchten",
-    "Ph": "Licht verzurend"
+    "product": "Spelt",
+    "soort": "Granen & Peulvruchten",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Tarwe, volkoren",
-    "Soort": "Granen & Peulvruchten",
-    "Ph": "Licht verzurend"
+    "product": "Tarwe, volkoren",
+    "soort": "Granen & Peulvruchten",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Biologische mosterd",
-    "Soort": "Sauzen & Kruiden",
-    "Ph": "Licht verzurend"
+    "product": "Biologische mosterd",
+    "soort": "Sauzen & Kruiden",
+    "ph": "Licht verzurend"
   },
   {
-    "Product": "Cashewnoten",
-    "Soort": "Noten & Zaden",
-    "Ph": "Zeer verzurend"
+    "product": "Cashewnoten",
+    "soort": "Noten & Zaden",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Pecannoten",
-    "Soort": "Noten & Zaden",
-    "Ph": "Zeer verzurend"
+    "product": "Pecannoten",
+    "soort": "Noten & Zaden",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Pistachenoten",
-    "Soort": "Noten & Zaden",
-    "Ph": "Zeer verzurend"
+    "product": "Pistachenoten",
+    "soort": "Noten & Zaden",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Macadamia",
-    "Soort": "Noten & Zaden",
-    "Ph": "Zeer verzurend"
+    "product": "Macadamia",
+    "soort": "Noten & Zaden",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Pinda%u2019s (= peulvrucht)",
-    "Soort": "Noten & Zaden",
-    "Ph": "Zeer verzurend"
+    "product": "Pinda%u2019s (= peulvrucht)",
+    "soort": "Noten & Zaden",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Pompoenpitten",
-    "Soort": "Noten & Zaden",
-    "Ph": "Zeer verzurend"
+    "product": "Pompoenpitten",
+    "soort": "Noten & Zaden",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Walnoten",
-    "Soort": "Noten & Zaden",
-    "Ph": "Zeer verzurend"
+    "product": "Walnoten",
+    "soort": "Noten & Zaden",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Zonnebloempitten",
-    "Soort": "Noten & Zaden",
-    "Ph": "Zeer verzurend"
+    "product": "Zonnebloempitten",
+    "soort": "Noten & Zaden",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Geharde vetten",
-    "Soort": "Olieën & Vetten",
-    "Ph": "Zeer verzurend"
+    "product": "Geharde vetten",
+    "soort": "Olieën & Vetten",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Transvetten",
-    "Soort": "Olieën & Vetten",
-    "Ph": "Zeer verzurend"
+    "product": "Transvetten",
+    "soort": "Olieën & Vetten",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Margarine",
-    "Soort": "Olieën & Vetten",
-    "Ph": "Zeer verzurend"
+    "product": "Margarine",
+    "soort": "Olieën & Vetten",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Maïsolie",
-    "Soort": "Olieën & Vetten",
-    "Ph": "Zeer verzurend"
+    "product": "Maïsolie",
+    "soort": "Olieën & Vetten",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Vloeibare boters",
-    "Soort": "Olieën & Vetten",
-    "Ph": "Zeer verzurend"
+    "product": "Vloeibare boters",
+    "soort": "Olieën & Vetten",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Zonnebloemolie",
-    "Soort": "Olieën & Vetten",
-    "Ph": "Zeer verzurend"
+    "product": "Zonnebloemolie",
+    "soort": "Olieën & Vetten",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Bier",
-    "Soort": "Dranken",
-    "Ph": "Zeer verzurend"
+    "product": "Bier",
+    "soort": "Dranken",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Cola (ook light en zero)",
-    "Soort": "Dranken",
-    "Ph": "Zeer verzurend"
+    "product": "Cola (ook light en zero)",
+    "soort": "Dranken",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Energie drankjes",
-    "Soort": "Dranken",
-    "Ph": "Zeer verzurend"
+    "product": "Energie drankjes",
+    "soort": "Dranken",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Frisdranken",
-    "Soort": "Dranken",
-    "Ph": "Zeer verzurend"
+    "product": "Frisdranken",
+    "soort": "Dranken",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Koffe",
-    "Soort": "Dranken",
-    "Ph": "Zeer verzurend"
+    "product": "Koffe",
+    "soort": "Dranken",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Likeur",
-    "Soort": "Dranken",
-    "Ph": "Zeer verzurend"
+    "product": "Likeur",
+    "soort": "Dranken",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Sterke drank",
-    "Soort": "Dranken",
-    "Ph": "Zeer verzurend"
+    "product": "Sterke drank",
+    "soort": "Dranken",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Thee, zwart",
-    "Soort": "Dranken",
-    "Ph": "Zeer verzurend"
+    "product": "Thee, zwart",
+    "soort": "Dranken",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Vruchtensap, gezoet",
-    "Soort": "Dranken",
-    "Ph": "Zeer verzurend"
+    "product": "Vruchtensap, gezoet",
+    "soort": "Dranken",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Wijn, wit",
-    "Soort": "Dranken",
-    "Ph": "Zeer verzurend"
+    "product": "Wijn, wit",
+    "soort": "Dranken",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Wijn, rosé",
-    "Soort": "Dranken",
-    "Ph": "Zeer verzurend"
+    "product": "Wijn, rosé",
+    "soort": "Dranken",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Chocolademelk",
-    "Soort": "Zuivel, Vetten & eieren",
-    "Ph": "Zeer verzurend"
+    "product": "Chocolademelk",
+    "soort": "Zuivel, Vetten & eieren",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Harde kaas",
-    "Soort": "Zuivel, Vetten & eieren",
-    "Ph": "Zeer verzurend"
+    "product": "Harde kaas",
+    "soort": "Zuivel, Vetten & eieren",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Kaas (smeltkaas)",
-    "Soort": "Zuivel, Vetten & eieren",
-    "Ph": "Zeer verzurend"
+    "product": "Kaas (smeltkaas)",
+    "soort": "Zuivel, Vetten & eieren",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Pudding/toetjes",
-    "Soort": "Zuivel, Vetten & eieren",
-    "Ph": "Zeer verzurend"
+    "product": "Pudding/toetjes",
+    "soort": "Zuivel, Vetten & eieren",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Strooikaas",
-    "Soort": "Zuivel, Vetten & eieren",
-    "Ph": "Zeer verzurend"
+    "product": "Strooikaas",
+    "soort": "Zuivel, Vetten & eieren",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Yoghurt, gezoet",
-    "Soort": "Zuivel, Vetten & eieren",
-    "Ph": "Zeer verzurend"
+    "product": "Yoghurt, gezoet",
+    "soort": "Zuivel, Vetten & eieren",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Yoghurtdrank",
-    "Soort": "Zuivel, Vetten & eieren",
-    "Ph": "Zeer verzurend"
+    "product": "Yoghurtdrank",
+    "soort": "Zuivel, Vetten & eieren",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Haring",
-    "Soort": "Vlees, gevogelte & vis",
-    "Ph": "Zeer verzurend"
+    "product": "Haring",
+    "soort": "Vlees, gevogelte & vis",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Karper",
-    "Soort": "Vlees, gevogelte & vis",
-    "Ph": "Zeer verzurend"
+    "product": "Karper",
+    "soort": "Vlees, gevogelte & vis",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Rundvlees",
-    "Soort": "Vlees, gevogelte & vis",
-    "Ph": "Zeer verzurend"
+    "product": "Rundvlees",
+    "soort": "Vlees, gevogelte & vis",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Kalfsvlees",
-    "Soort": "Vlees, gevogelte & vis",
-    "Ph": "Zeer verzurend"
+    "product": "Kalfsvlees",
+    "soort": "Vlees, gevogelte & vis",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Kreeft",
-    "Soort": "Vlees, gevogelte & vis",
-    "Ph": "Zeer verzurend"
+    "product": "Kreeft",
+    "soort": "Vlees, gevogelte & vis",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Lever",
-    "Soort": "Vlees, gevogelte & vis",
-    "Ph": "Zeer verzurend"
+    "product": "Lever",
+    "soort": "Vlees, gevogelte & vis",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Makreel",
-    "Soort": "Vlees, gevogelte & vis",
-    "Ph": "Zeer verzurend"
+    "product": "Makreel",
+    "soort": "Vlees, gevogelte & vis",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Orgaanvlees",
-    "Soort": "Vlees, gevogelte & vis",
-    "Ph": "Zeer verzurend"
+    "product": "Orgaanvlees",
+    "soort": "Vlees, gevogelte & vis",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Pangaflet",
-    "Soort": "Vlees, gevogelte & vis",
-    "Ph": "Zeer verzurend"
+    "product": "Pangaflet",
+    "soort": "Vlees, gevogelte & vis",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Rivierkreeft",
-    "Soort": "Vlees, gevogelte & vis",
-    "Ph": "Zeer verzurend"
+    "product": "Rivierkreeft",
+    "soort": "Vlees, gevogelte & vis",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Tilapia",
-    "Soort": "Vlees, gevogelte & vis",
-    "Ph": "Zeer verzurend"
+    "product": "Tilapia",
+    "soort": "Vlees, gevogelte & vis",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Varkensvlees",
-    "Soort": "Vlees, gevogelte & vis",
-    "Ph": "Zeer verzurend"
+    "product": "Varkensvlees",
+    "soort": "Vlees, gevogelte & vis",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Vleeswaren",
-    "Soort": "Vlees, gevogelte & vis",
-    "Ph": "Zeer verzurend"
+    "product": "Vleeswaren",
+    "soort": "Vlees, gevogelte & vis",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Zalm",
-    "Soort": "Vlees, gevogelte & vis",
-    "Ph": "Zeer verzurend"
+    "product": "Zalm",
+    "soort": "Vlees, gevogelte & vis",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Donker bruin met gist",
-    "Soort": "Brood",
-    "Ph": "Zeer verzurend"
+    "product": "Donker bruin met gist",
+    "soort": "Brood",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Roggebrood",
-    "Soort": "Brood",
-    "Ph": "Zeer verzurend"
+    "product": "Roggebrood",
+    "soort": "Brood",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Tarwebrood",
-    "Soort": "Brood",
-    "Ph": "Zeer verzurend"
+    "product": "Tarwebrood",
+    "soort": "Brood",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Volkoren brood met gist",
-    "Soort": "Brood",
-    "Ph": "Zeer verzurend"
+    "product": "Volkoren brood met gist",
+    "soort": "Brood",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Wit brood",
-    "Soort": "Brood",
-    "Ph": "Zeer verzurend"
+    "product": "Wit brood",
+    "soort": "Brood",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Gierst",
-    "Soort": "Granen & Peulvruchten",
-    "Ph": "Zeer verzurend"
+    "product": "Gierst",
+    "soort": "Granen & Peulvruchten",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Maïs",
-    "Soort": "Granen & Peulvruchten",
-    "Ph": "Zeer verzurend"
+    "product": "Maïs",
+    "soort": "Granen & Peulvruchten",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Rijst, wit",
-    "Soort": "Granen & Peulvruchten",
-    "Ph": "Zeer verzurend"
+    "product": "Rijst, wit",
+    "soort": "Granen & Peulvruchten",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Tarwe",
-    "Soort": "Granen & Peulvruchten",
-    "Ph": "Zeer verzurend"
+    "product": "Tarwe",
+    "soort": "Granen & Peulvruchten",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Tarwe griesmeel",
-    "Soort": "Granen & Peulvruchten",
-    "Ph": "Zeer verzurend"
+    "product": "Tarwe griesmeel",
+    "soort": "Granen & Peulvruchten",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Tarwe, wit (pasta)",
-    "Soort": "Granen & Peulvruchten",
-    "Ph": "Zeer verzurend"
+    "product": "Tarwe, wit (pasta)",
+    "soort": "Granen & Peulvruchten",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Augurken",
-    "Soort": "Sauzen & Kruiden",
-    "Ph": "Zeer verzurend"
+    "product": "Augurken",
+    "soort": "Sauzen & Kruiden",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Azijn",
-    "Soort": "Sauzen & Kruiden",
-    "Ph": "Zeer verzurend"
+    "product": "Azijn",
+    "soort": "Sauzen & Kruiden",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Curry",
-    "Soort": "Sauzen & Kruiden",
-    "Ph": "Zeer verzurend"
+    "product": "Curry",
+    "soort": "Sauzen & Kruiden",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Ketchup",
-    "Soort": "Sauzen & Kruiden",
-    "Ph": "Zeer verzurend"
+    "product": "Ketchup",
+    "soort": "Sauzen & Kruiden",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Mayonaise",
-    "Soort": "Sauzen & Kruiden",
-    "Ph": "Zeer verzurend"
+    "product": "Mayonaise",
+    "soort": "Sauzen & Kruiden",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Melasse",
-    "Soort": "Sauzen & Kruiden",
-    "Ph": "Zeer verzurend"
+    "product": "Melasse",
+    "soort": "Sauzen & Kruiden",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Mosterd",
-    "Soort": "Sauzen & Kruiden",
-    "Ph": "Zeer verzurend"
+    "product": "Mosterd",
+    "soort": "Sauzen & Kruiden",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Wijnazijn",
-    "Soort": "Sauzen & Kruiden",
-    "Ph": "Zeer verzurend"
+    "product": "Wijnazijn",
+    "soort": "Sauzen & Kruiden",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Zilveruitjes",
-    "Soort": "Sauzen & Kruiden",
-    "Ph": "Zeer verzurend"
+    "product": "Zilveruitjes",
+    "soort": "Sauzen & Kruiden",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Zout",
-    "Soort": "Sauzen & Kruiden",
-    "Ph": "Zeer verzurend"
+    "product": "Zout",
+    "soort": "Sauzen & Kruiden",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Bietsuiker",
-    "Soort": "Zoetstoffen",
-    "Ph": "Zeer verzurend"
+    "product": "Bietsuiker",
+    "soort": "Zoetstoffen",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Bruinerijststroop",
-    "Soort": "Zoetstoffen",
-    "Ph": "Zeer verzurend"
+    "product": "Bruinerijststroop",
+    "soort": "Zoetstoffen",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Fructose",
-    "Soort": "Zoetstoffen",
-    "Ph": "Zeer verzurend"
+    "product": "Fructose",
+    "soort": "Zoetstoffen",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Gedroogd suikerriet",
-    "Soort": "Zoetstoffen",
-    "Ph": "Zeer verzurend"
+    "product": "Gedroogd suikerriet",
+    "soort": "Zoetstoffen",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Gerstemoutsiroop",
-    "Soort": "Zoetstoffen",
-    "Ph": "Zeer verzurend"
+    "product": "Gerstemoutsiroop",
+    "soort": "Zoetstoffen",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Honing",
-    "Soort": "Zoetstoffen",
-    "Ph": "Zeer verzurend"
+    "product": "Honing",
+    "soort": "Zoetstoffen",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Kunstmatige -",
-    "Soort": "Zoetstoffen",
-    "Ph": "Zeer verzurend"
+    "product": "Kunstmatige -",
+    "soort": "Zoetstoffen",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "zoetstoffen",
-    "Soort": "Zoetstoffen",
-    "Ph": "Zeer verzurend"
+    "product": "zoetstoffen",
+    "soort": "Zoetstoffen",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Melksuiker",
-    "Soort": "Zoetstoffen",
-    "Ph": "Zeer verzurend"
+    "product": "Melksuiker",
+    "soort": "Zoetstoffen",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Suiker",
-    "Soort": "Zoetstoffen",
-    "Ph": "Zeer verzurend"
+    "product": "Suiker",
+    "soort": "Zoetstoffen",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Bewerkte voedingsmiddelen",
-    "Soort": "Diversen",
-    "Ph": "Zeer verzurend"
+    "product": "Bewerkte voedingsmiddelen",
+    "soort": "Diversen",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Kant en klare voeding",
-    "Soort": "Diversen",
-    "Ph": "Zeer verzurend"
+    "product": "Kant en klare voeding",
+    "soort": "Diversen",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Voeding bereid in magnetron",
-    "Soort": "Diversen",
-    "Ph": "Zeer verzurend"
+    "product": "Voeding bereid in magnetron",
+    "soort": "Diversen",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Verpakt of geblikt voedsel",
-    "Soort": "Diversen",
-    "Ph": "Zeer verzurend"
+    "product": "Verpakt of geblikt voedsel",
+    "soort": "Diversen",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Pizza",
-    "Soort": "Diversen",
-    "Ph": "Zeer verzurend"
+    "product": "Pizza",
+    "soort": "Diversen",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Koekjes",
-    "Soort": "Diversen",
-    "Ph": "Zeer verzurend"
+    "product": "Koekjes",
+    "soort": "Diversen",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Sigaretten",
-    "Soort": "Diversen",
-    "Ph": "Zeer verzurend"
+    "product": "Sigaretten",
+    "soort": "Diversen",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Drugs",
-    "Soort": "Diversen",
-    "Ph": "Zeer verzurend"
+    "product": "Drugs",
+    "soort": "Diversen",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Snoep",
-    "Soort": "Diversen",
-    "Ph": "Zeer verzurend"
+    "product": "Snoep",
+    "soort": "Diversen",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Chocolade",
-    "Soort": "Diversen",
-    "Ph": "Zeer verzurend"
+    "product": "Chocolade",
+    "soort": "Diversen",
+    "ph": "Zeer verzurend"
   },
   {
-    "Product": "Chips",
-    "Soort": "Diversen",
-    "Ph": "Zeer verzurend"
+    "product": "Chips",
+    "soort": "Diversen",
+    "ph": "Zeer verzurend"
   }
 ]
